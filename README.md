@@ -15,8 +15,6 @@ expo-router plugin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Youtube - React Native para Principiantes](https://www.youtube.com/watch?v=U23lNFm_J70)
 - [Youtube - React Native para Principiantes](https://www.youtube.com/watch?v=ZDoiMLqWz2E&t=1575s)
 - [React Native documentation](https://reactnative.dev/)
